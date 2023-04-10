@@ -2,6 +2,7 @@
 const nextConfig = {
 	experimental: {
 		appDir: true,
+		//runtime: "edge",
 	},
 	images: {
 		domains: ["nlidwaakjqdqreffanve.supabase.co"],
